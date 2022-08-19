@@ -14,28 +14,3 @@ body{
   "n c";
 }
 
-.header{
-  grid-area: h;
-  background-color: green;
-}
-
-.header img{
-  width: 90px;
-
-}
-
-.nav{
-  grid-area: n;
-background-color: burlywood;
-}
-
-.profile{
-  grid-area: c;
-  background-color: rgb(129, 170, 211);
-}
-
-.profile img{
-  width: 100%;
-  height: 100%;
-}
-
